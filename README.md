@@ -14,5 +14,6 @@ Before we get started with our example, we need to cover logistics as well as so
 
 ## Keep in mind that many states have populations below 5 million and are bunched up. We may gain further insights from making this plot in the log scale. Transform the variables using the log10 transformation and then plot them.
 2. Create a histogram of the state populations.
+  note : We can see that there is a wide range of values with most of them between 2 and 3 and one very extreme case with a murder rate of more than 15
 
-3. Generate boxplots of the state populations by region.
+4. Generate boxplots of the state populations by region.
